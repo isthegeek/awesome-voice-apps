@@ -112,6 +112,7 @@ Install
 * [Official Alexa Tutorials](https://developer.amazon.com/alexa-skills-kit/tutorials): Up to date tutorials from the Alexa dev team
 * [DabbleLab](https://www.youtube.com/channel/UCfY-LopSxGekh9LruXLjffg/videos): Weekly video tutorials and [associated github repo](https://github.com/dabblelab)
 * [Codecademy](https://www.codecademy.com/learn/learn-alexa-skills-kit): A complete "from the basics" intro to Alexa and Lambda
+* [How to build application for Google Assistant] (https://medium.com/espresso-labs/part-1-build-actions-app-in-10-mins-to-make-google-assistant-find-your-favorite-food-36fb5e9c2631): This beginner friendly tutorial would explain how to make an application for Google Assistant/Google Home with which you can find the nearest places which are serving the food you are craving for.
 
 ### Templates & Examples
 
